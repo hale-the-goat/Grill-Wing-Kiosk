@@ -30,7 +30,7 @@ All menu items and names are **original creations** made for this project.
    
 cd path/to/GRILL_WING
 
-3. Run the kiosk application:
+2. Run the kiosk application:
    
 python main.py
 
