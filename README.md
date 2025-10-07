@@ -27,11 +27,12 @@ All menu items and names are **original creations** made for this project.
 ## How to Run
 
 1. Open a terminal and navigate to the project folder:
-
 cd path/to/GRILL_WING
-Run the kiosk application:
 
+2. Run the kiosk application:
 python main.py
+
+---
 
 ## Follow the on-screen instructions:
 
@@ -49,10 +50,14 @@ Confirm order with CONFIRM
 
 Exit the app with 0 at category selection or dine option
 
+---
+
 Notes
 The application uses a console interface. No GUI required.
 
 The cart is temporary and resets after confirming an order.
+
+---
 
 ## 🧑‍💻 Author
 **Aeron**  
