@@ -27,9 +27,11 @@ All menu items and names are **original creations** made for this project.
 ## How to Run
 
 1. Open a terminal and navigate to the project folder:
+   
 cd path/to/GRILL_WING
 
-2. Run the kiosk application:
+3. Run the kiosk application:
+   
 python main.py
 
 ---
